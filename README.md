@@ -10,6 +10,7 @@
 Links from the video:
 - Starting wokwi project: https://wokwi.com/projects/371852029526395905
 - 10K Potentiometer: https://s.click.aliexpress.com/e/_Dk1WFoV
+- Solid Aluminium Knob: https://s.click.aliexpress.com/e/_DFPuloh
 - 128x32 SSD1306 OLED Display: https://s.click.aliexpress.com/e/_DBFPWbb
 - Breadboard wires: https://s.click.aliexpress.com/e/_Dkbngin
 - Arduino UNO: https://s.click.aliexpress.com/e/_AXDw1h
